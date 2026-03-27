@@ -1,0 +1,8 @@
+Q1 (Home Page): http://20.219.139.105
+
+Q2 (Contact Page): http://20.219.139.105/contact.html
+
+Q3 (Storage Website): https://ushaweb12345.z29.web.core.windows.net/
+
+
+Public Ip: 20.219.139.105
